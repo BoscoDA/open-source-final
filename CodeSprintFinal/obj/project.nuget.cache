@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHBatsmQ8pNtkzSiJVGhXX5FWttntRjqcQKJd67oXlOm7v90bIiHDxe1weu/gFw7BLiXQJZamfqxnT7kS+eaAQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\src\\open-source-final\\CodeSprintFinal\\CodeSprintFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nickw\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

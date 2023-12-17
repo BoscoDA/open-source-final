@@ -1,0 +1,17 @@
+C:\workspace\src\open-source-final\CodeSprintFinal\bin\Debug\net7.0\CodeSprintFinal.exe
+C:\workspace\src\open-source-final\CodeSprintFinal\bin\Debug\net7.0\CodeSprintFinal.deps.json
+C:\workspace\src\open-source-final\CodeSprintFinal\bin\Debug\net7.0\CodeSprintFinal.runtimeconfig.json
+C:\workspace\src\open-source-final\CodeSprintFinal\bin\Debug\net7.0\CodeSprintFinal.dll
+C:\workspace\src\open-source-final\CodeSprintFinal\bin\Debug\net7.0\CodeSprintFinal.pdb
+C:\workspace\src\open-source-final\CodeSprintFinal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.csproj.AssemblyReference.cache
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.AssemblyInfoInputs.cache
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.AssemblyInfo.cs
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.csproj.CoreCompileInputs.cache
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.csproj.CopyComplete
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.dll
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\refint\CodeSprintFinal.dll
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.pdb
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\CodeSprintFinal.genruntimeconfig.cache
+C:\workspace\src\open-source-final\CodeSprintFinal\obj\Debug\net7.0\ref\CodeSprintFinal.dll
