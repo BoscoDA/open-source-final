@@ -1,0 +1,8 @@
+================================================================================
+MIT License
+================================================================================
+
+Component: NewtonSoft.Json
+Copyright: Copyright (c) 2007 James Newton-King
+License Text URL: licenses/LICENSE-NewtonSoftJson.txt
+Source Code: https://github.com/JamesNK/Newtonsoft.Json
